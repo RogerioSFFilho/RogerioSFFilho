@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rogério dos Santos Ferreira Filho!
+# 👋 Olá, eu sou Rogério Ferreira!
 
 🎓 Economista formado pela PUC-SP | 📊 Estudante de Ciência de Dados na Escola DNC  
 💼 Experiência em investimentos, auditoria e vendas consultivas  
